@@ -1,0 +1,10 @@
+portero;defensa
+portera;defensa
+defensaCentral;defensa
+lateral;defensa
+mediocentroDefensivo;central
+mediocentroOfensivo;central
+volante;central
+delantero;delantero
+delantera;delantero
+extremos;delantero
